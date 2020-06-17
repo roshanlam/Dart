@@ -1,7 +1,7 @@
 # Dart
 
 YouTube:
-* * https://www.youtube.com/playlist?list=PL_LG-VOo0eUwJHv6UpBdXClbgWJ_bLAE0
+* https://www.youtube.com/playlist?list=PL_LG-VOo0eUwJHv6UpBdXClbgWJ_bLAE0
 
 TutorialsPoint:
 * https://www.tutorialspoint.com/dart_programming/index.htm
