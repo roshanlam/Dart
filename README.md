@@ -19,3 +19,5 @@ Dart CheatSheet:
 Flutter CheatSheet:
 * https://github.com/Temidtech/Flutter-Cheat-Sheet
 
+State Management in Flutter:
+https://flutter.dev/docs/development/data-and-backend/state-mgmt
