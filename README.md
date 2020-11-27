@@ -21,3 +21,12 @@ Flutter CheatSheet:
 
 State Management in Flutter:
 https://flutter.dev/docs/development/data-and-backend/state-mgmt
+
+
+Firebase & FireStore:
+
+https://firebase.flutter.dev/docs/core/usage
+
+https://firebase.flutter.dev/docs/auth/usage
+
+https://firebase.flutter.dev/docs/firestore/usage/
